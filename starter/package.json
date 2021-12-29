@@ -1,6 +1,7 @@
 {
   "private": true,
   "name": "strapi-starter-frontend",
+  "version": "0.1.0",
   "description": "",
   "license": "",
   "scripts": {
