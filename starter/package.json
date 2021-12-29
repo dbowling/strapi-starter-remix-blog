@@ -6,7 +6,7 @@
   "license": "",
   "scripts": {
     "build": "remix build",
-    "dev": "remix dev",
+    "develop": "remix dev",
     "postinstall": "remix setup node",
     "start": "remix-serve build"
   },
