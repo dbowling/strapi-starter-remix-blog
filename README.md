@@ -1,2 +1,2 @@
-# straps-starter-remix-blog
-Created with CodeSandbox
+# strapi-starter-remix-blog
+
